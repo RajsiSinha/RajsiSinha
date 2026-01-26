@@ -34,9 +34,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,cpp,py,figma,vercel&theme=dark" />
   </a>
 </p>
-
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajsiSinha&layout=compact&theme=radical&title_color=FF6B6B&icon_color=FF6B6B&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajsiSinha&layout=compact&theme=radical&title_color=FF6B6B&icon_color=FF6B6B&hide_border=false&border_color=FF6B6B&bg_color=0D1117" />
 </p>
 
 ---
@@ -60,7 +60,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajsiSinha/RajsiSinha/output/github-snake.svg">
     <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/RajsiSinha/RajsiSinha/output/github-snake.svg">
   </picture>
-  
   <br>
   <br>
   <p align="center">
@@ -70,5 +69,3 @@
     <b>Learning • Building • Growing</b>
   </p>
 </div>
-<br>
-
