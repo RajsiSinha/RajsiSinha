@@ -63,7 +63,7 @@
   <br>
   <br>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=RajsiSinha&label=Profile%20views&color=FF6B6B&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=RajsiSinha&color=blueviolet&style=flat-square" />
     <br>
     <br>
     <b>Learning • Building • Growing</b>
