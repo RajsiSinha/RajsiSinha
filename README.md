@@ -50,7 +50,7 @@
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajsi-sinha-22b006282) [![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajsisinha03@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajsi-sinha-22b006282) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajsisinha03@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white)](https://my-portfolio-five-puce-31.vercel.app/)
 
 <br>
 
